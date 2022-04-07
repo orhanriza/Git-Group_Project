@@ -18,4 +18,6 @@ public class Setup {
 
     // hako was here :P
 
+    //life is good
+
 }
